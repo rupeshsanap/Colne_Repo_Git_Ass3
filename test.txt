@@ -11,5 +11,10 @@ branch to add in master branch
 =======
 branch to add in master branch
 to aabort merge
+<<<<<<< HEAD
 >>>>>>> test
 Hello Rupesh
+=======
+Hello
+conflict creation
+>>>>>>> test

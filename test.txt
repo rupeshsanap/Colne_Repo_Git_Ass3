@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test file in txt test branch Hello for staging and local
+=======
+This test in test branch to add in master branch 
+>>>>>>> test
